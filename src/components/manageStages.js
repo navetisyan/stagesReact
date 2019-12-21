@@ -6,10 +6,6 @@ import StagesWrapper from './stagesWrapper';
 
 class manageStages extends React.Component {
 
-    constructor(props){
-        super(props);
-
-    }
 
   render (){
 
