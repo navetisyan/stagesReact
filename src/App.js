@@ -1,11 +1,11 @@
 import React from 'react';
 import './App.css';
-import ManageStages from './components/manageStages.js'
+import StagesWrapper from './components/stagesWrapper.js';
 
 function App() {
   return (
     <div className="App">
-      <ManageStages/>
+      <StagesWrapper/>
     </div>
   );
 }
